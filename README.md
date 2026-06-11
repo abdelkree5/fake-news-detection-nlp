@@ -22,7 +22,7 @@ A state-of-the-art Natural Language Processing (NLP) system designed to detect d
 
 1. Clone:
 ```bash
-git clone https://github.com/mstfyshrqawy520-alt/fake-news-detection-nlp.git
+git clone https://github.com/abdelkree5/fake-news-detection-nlp.git
 cd fake-news-detection-nlp
 ```
 
@@ -49,4 +49,4 @@ streamlit run ui.py
 ```
 
 ---
-Developed by **Mostafa Elsharqawi**
+Developed by **abdelkreem abdelhaleem frahat**
